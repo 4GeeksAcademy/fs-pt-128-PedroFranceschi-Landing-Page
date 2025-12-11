@@ -9,3 +9,12 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+img {
+    width: 500px;
+    height: 325px;
+    aspect-ratio: 1;
+}
+
+.card {
+    max-width: 450px;
+}
