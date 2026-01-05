@@ -2,6 +2,7 @@ import React from "react";
 import Navbar from "./Navbar";
 import Hero from "./Hero";
 import Card from "./Card"
+import Footer from "./Footer";
 
 //include images into your bundle
 
@@ -12,6 +13,7 @@ const Home = () => {
 			<Navbar />
 			<Hero />
 			<Card />
+			<Footer />
 		</>
 	);
 };
